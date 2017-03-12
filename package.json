@@ -1,0 +1,26 @@
+{
+  "name": "montyhallcluster",
+  "version": "1.0.0",
+  "description": "This is a simple CLI program, written in node.js, that using a cluster calculates the likelihood of winning a car by always choose to switch door.",
+  "main": "montyHall.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skabbi/Monty-Hall.git"
+  },
+  "keywords": [
+    "Monty",
+    "Hall"
+  ],
+  "author": "Skabbi",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/skabbi/Monty-Hall/issues"
+  },
+  "homepage": "https://github.com/skabbi/Monty-Hall#readme"
+}
